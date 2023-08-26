@@ -1,0 +1,165 @@
+body {
+    background-color: black;
+}
+
+* {
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.dropdown a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.link-secondary:hover {
+    transform: scale(1.1);
+    transition: .8s;
+}
+
+.link-secondary {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+/* logo  */
+
+.navbar-brand h2 {
+    color: #fff;
+    /* animation-name: logo;
+    animation-duration: 5s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite; */
+}
+
+
+/* 
+@keyframes logo {
+    0% {
+        translate: 0 0;
+        rotate: 90 deg;
+    }
+    50% {
+        translate: 200px 0;
+        rotate: 90 deg;
+    }
+} */
+
+
+/*  end logo  */
+
+.container-fluid i {
+    color: #fff;
+}
+
+.my-images {
+    margin-top: 40px;
+}
+
+
+/* card-body */
+
+.card-body h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 50px;
+    letter-spacing: 1px;
+}
+
+.card-text {
+    color: #fff;
+}
+
+.card {
+    background-color: black;
+}
+
+.span-1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid rgb(216, 192, 192);
+    border-radius: 8px;
+    opacity: 0.5;
+}
+
+
+/* btn-contact */
+
+.btn-contact button {
+    background-color: black;
+    text-transform: uppercase;
+}
+
+.fw-bold {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+
+/* text-center */
+
+.text-center {
+    color: #fff;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-size: 40px;
+}
+
+
+/* frist 4 cards  */
+
+.card {
+    margin: 20px;
+}
+
+
+/* footer  */
+
+form {
+    width: 400px;
+    padding-left: 80px;
+}
+
+.form-outline input {
+    background-color: black;
+    color: #fff;
+    border-bottom: 1px solid rgb(231, 216, 216);
+}
+
+.row {
+    margin-top: 80px;
+}
+
+.form-outline textarea {
+    background-color: black;
+    color: #fff;
+    border-bottom: 1px solid rgb(231, 216, 216);
+    height: 80px;
+}
+
+form .btn {
+    background-color: black;
+}
+
+footer {
+    padding: 40px;
+    background-color: rgb(33, 33, 33);
+}
+
+.footer-text h4 {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 50px;
+    padding: 30px;
+    letter-spacing: 1px;
+}
+
+.footer-text {
+    color: #dbd4d4;
+    text-transform: capitalize;
+    width: 400px;
+    letter-spacing: 1px;
+}
